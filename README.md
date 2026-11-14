@@ -20,12 +20,13 @@
 ## 👨‍💻 About Me
 
 - 💻 Software Engineer building web applications and backend services with **Java**, **TypeScript** and **Python**
-- 🍃 Backend work with **Spring Boot**, **Node.js / Express** and **PostgreSQL**
+- 🍃 Backend work with **Spring Boot**, **Ktor**, **Django**, **Node.js / Express** and **PostgreSQL**
 - 🅰️ Frontend work with **Angular**, **Next.js** and **React**, with **Supabase** for fast full-stack apps
 - 🌱 Always learning and exploring new ideas to improve coding and software architecture
 - 🌍 Based in **Zanzibar**, building solutions for local problems in agriculture, infrastructure, health and commerce
 - 🤝 Contributing with [Technovations Company Ltd](https://github.com/TechnovationsLtd), [wastexInnovationHub](https://github.com/wastexInnovationHub) and [SUZA-HACK2026](https://github.com/SUZA-HACK2026)
 - 📫 Reach me at **luqmanbenzema0@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/luqman-mohammed-82814027a/)
+- 🌐 Portfolio: [serveraugx.vercel.app](https://serveraugx.vercel.app/)
 
 ---
 
@@ -40,7 +41,7 @@
 **Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,postgres,prisma,maven&perline=6" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,kotlin,postgres,prisma,maven&perline=8" alt="backend" />
 </p>
 
 **Frontend**
@@ -156,6 +157,9 @@ Projects I've built that are deployed and in use:
 ## 🤝 Connect With Me
 
 <div align="center">
+  <a href="https://serveraugx.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-serveraugx.vercel.app-2c5364?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/luqman-mohammed-82814027a/">
     <img src="https://img.shields.io/badge/LinkedIn-Luqman_Mohammed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
