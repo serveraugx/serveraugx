@@ -118,6 +118,7 @@ Projects I've built that are deployed and in use:
 
 | Project | Description | Link |
 | :-- | :-- | :-- |
+| 🏡 **Soqoni** | Property marketplace for Zanzibar where people find houses, land and shops to buy or rent, and connect with sellers and landlords. | [soqoni.co.tz](https://soqoni.co.tz/) |
 | 🎨 **ZanziArt User Store** | Customer-facing storefront of the Zanzibar Art Gallery e-commerce platform. | [zanziart-front-end-user.vercel.app](https://zanziart-front-end-user.vercel.app/) |
 | 🛠️ **ZanziArt Management** | Admin dashboard for managing the Zanzibar Art Gallery e-commerce platform. | [zanziart-front-end-management.vercel.app](https://zanziart-front-end-management.vercel.app/) |
 | 🐆 **BP Black Panthers** | Official clan hub for the Black Panthers CODM Esports team. | [bp-blank-panthers.vercel.app](https://bp-blank-panthers.vercel.app/) |
